@@ -33,5 +33,8 @@ public class CarRestController {
     }
 
 
+    public String test(){
+        return "test";
+    }
 
 }
